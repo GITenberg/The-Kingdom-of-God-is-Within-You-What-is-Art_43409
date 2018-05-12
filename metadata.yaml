@@ -1,0 +1,52 @@
+_repo: The-Kingdom-of-God-is-Within-You-What-is-Art_43409
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Delano, Aline
+    alias: Delano, Aline P. Kuzmishcheva
+    birthdate: 1845
+    gutenberg_agent_id: '42191'
+    url: http://www.gutenberg.org/2009/agents/42191
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Tolstoy, Graf Leo
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: Initially banned in his home country The Kingdom of God Is Within You
+  is Leo Tolstoy's great non-fictional work. The zenith of Tolstoy's thirty years
+  of Christian thinking, it sets out a plan for a new society guided by a literal
+  Christian interpretation. Christ conceived of a society based on love, compassion
+  and tolerance, and Tolstoy believed this was incompatible with violence. Tolstoy's
+  response is the principle of nonresistance in the face of violence ...
+gutenberg_issued: '2013-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Government, Resistance to -- Religious aspects -- Christianity'
+- !lcc 'BH'
+- !lcsh 'Evil, Non-resistance to'
+- !lcsh 'Art and morals'
+- !lcsh 'Christianity -- Controversial literature'
+- !lcsh 'Nonviolence -- Religious aspects -- Christianity'
+- !lcsh 'Art'
+- !lcc 'BR'
+- !lcsh 'Christianity -- Essence, genius, nature'
+title: The Kingdom of God is Within You; What is Art?
+url: http://www.gutenberg.org/ebooks/43409
